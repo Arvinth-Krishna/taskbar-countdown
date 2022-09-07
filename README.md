@@ -29,3 +29,23 @@ Taskbar Countdown app helps us to display countdown effortlessly in Windows Task
   <img  width="240" height="187.5"  alt="Taskbar Countdown by GAK" title="Taskbar_Countdown - Countdown on Taskbar + System Tray" src="https://user-images.githubusercontent.com/49812701/188794333-0170dbd1-830a-4d0e-8b02-ebce4e36ea97.png">
 </p>
   
+  
+  ### Installation:
+  
+ * 1) Go to **Release** tab and [download the latest Release (.zip)](https://github.com/Arvinth-Krishna/taskbar-countdown/releases/download/v1.0.0/countdown_taskbar_v1.0.0.zip).
+ * 2) Then **Extract** the downloaded zip file.
+ * 3) Then **Run countdownontaskbar.exe** file.
+ * 4) Enjoy 🥳.
+
+## Credits:
+
+
+* [Logo](https://github.com/Arvinth-Krishna/taskbar-countdown#taskbar-countdown) Creator - Amritha Varthini G aka GAV - https://www.instagram.com/amirthavarthini/.
+
+
+
+## ❤️ Found this project useful?
+If you found this project useful, then please consider giving it a **⭐ on Github and sharing it with your friends via social media**.
+
+
+### [⟰ Jump to the top](https://github.com/Arvinth-Krishna/taskbar-countdown#taskbar-countdown)
