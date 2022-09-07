@@ -50,8 +50,8 @@ Taskbar Countdown app helps us to display countdown effortlessly in Windows Task
 * [Logo](https://github.com/Arvinth-Krishna/taskbar-countdown#taskbar-countdown) Creator - Amritha Varthini G aka GAV - https://www.instagram.com/amirthavarthini/.
 
 
-## ❤️ Found this project useful?
-If you found this project useful, then please consider giving it a **⭐ on Github and sharing it with your friends via social media**.
+## ❤️ Found this project helpful?
+If you found this project helpful, please consider giving it a **⭐ on Github and sharing it with your friends via social media**.
 
 
 ### [⟰ Jump to the top](https://github.com/Arvinth-Krishna/taskbar-countdown#taskbar-countdown)
