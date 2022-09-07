@@ -35,13 +35,19 @@ Taskbar Countdown app helps us to display countdown effortlessly in Windows Task
  * 1) Go to **Release** tab and [download the latest Release (.zip)](https://github.com/Arvinth-Krishna/taskbar-countdown/releases/download/v1.0.0/countdown_taskbar_v1.0.0.zip).
  * 2) Then **Extract** the downloaded zip file.
  * 3) Then **Run countdownontaskbar.exe** file.
+ * 4) Follow -**How to add Countdown on Taskbar**.
  * 4) Enjoy 🥳.
+
+  ### How to Add Countdown on Taskbar:
+  
+ * 1) **Right click Taskbar** -> **New Toolbar** -> '**Documents->taskBarCountdown**'.
+ * 2) Right click **taskBarCountdown** on your Taskbar & Remove **Show title** checkbox.
+ * 3) Then again Right click **Taskbar** and click **Lock the taskbar**.
+ 
 
 ## Credits:
 
-
 * [Logo](https://github.com/Arvinth-Krishna/taskbar-countdown#taskbar-countdown) Creator - Amritha Varthini G aka GAV - https://www.instagram.com/amirthavarthini/.
-
 
 
 ## ❤️ Found this project useful?
