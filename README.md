@@ -19,13 +19,13 @@ Taskbar Countdown app helps us to display countdown effortlessly in Windows Task
  
  
 <p align="center">
-  <img  width="100" height="187.5" alt="Reco - Discord PC Remote Controller App" src="https://user-images.githubusercontent.com/49812701/188782573-c4ad50c5-3661-4ef7-ae22-87d5b9b58760.png">
-  <img  width="100" height="187.5" alt="Reco - Discord PC Remote Controller App" src="https://user-images.githubusercontent.com/49812701/188782669-56a57458-e720-4bac-9ab6-01476ce337e6.png">
-  <img  width="100" height="187.5" alt="Reco - Discord PC Remote Controller App" src="https://user-images.githubusercontent.com/49812701/188782765-e5e69f1c-3780-40b1-8d2e-5481e60c02b0.png">
+  <img  width="100" height="187.5" alt="Takbar_Countdown - Home Screen" src="https://user-images.githubusercontent.com/49812701/188782573-c4ad50c5-3661-4ef7-ae22-87d5b9b58760.png">
+  <img  width="100" height="187.5" alt="Taskbar_Countdown - Countdown Adder Screen" src="https://user-images.githubusercontent.com/49812701/188782669-56a57458-e720-4bac-9ab6-01476ce337e6.png">
+  <img  width="100" height="187.5" alt="Taskbar_Countdown - Settings Screen" src="https://user-images.githubusercontent.com/49812701/188782765-e5e69f1c-3780-40b1-8d2e-5481e60c02b0.png">
 </p>
  
 <p align="center">
-  <img  width="190" height="187.5" alt="Reco - Discord PC Remote Controller App" src="https://user-images.githubusercontent.com/49812701/188783082-6a43d849-123e-4490-b074-91111c34574c.png">
-  <img  width="240" height="187.5" alt="Reco - Discord PC Remote Controller App" src="https://user-images.githubusercontent.com/49812701/188794333-0170dbd1-830a-4d0e-8b02-ebce4e36ea97.png">
+  <img  width="190" height="187.5" alt="Taskbar_Countdown - System Tray" src="https://user-images.githubusercontent.com/49812701/188798136-787d6bc6-8d05-458d-8663-431d07184ca9.png">
+  <img  width="240" height="187.5" alt="Taskbar_Countdown - Countdown on Taskbar + System Tray" src="https://user-images.githubusercontent.com/49812701/188794333-0170dbd1-830a-4d0e-8b02-ebce4e36ea97.png">
 </p>
   
