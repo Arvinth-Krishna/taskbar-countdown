@@ -47,6 +47,19 @@ Taskbar Countdown app helps us to display countdown effortlessly in Windows Task
  * 3) Then again Right click **Taskbar** and click **Lock the taskbar**.
  
 
+## Donate  [↟](https://github.com/Arvinth-Krishna/Reco-PC-Server#quick-jumps) 
+
+	
+If you found this project helpful and want to thank me, consider buying me a cup of ☕
+
+
+<a href="https://www.paypal.com/paypalme/gak15"><img width="140" src="https://cdn.pixabay.com/photo/2015/05/26/09/37/paypal-784404__480.png"></a>
+
+
+<a href="https://www.buymeacoffee.com/ArvinthKrishna"><img width="140"  src="https://github.com/appcraftstudio/buymeacoffee/raw/master/Images/snapshot-bmc-button.png"></a>
+
+	
+
 ## Credits:
 
 * [Logo](https://github.com/Arvinth-Krishna/taskbar-countdown#taskbar-countdown) Creator - Amritha Varthini G aka GAV - https://www.instagram.com/amirthavarthini/.
