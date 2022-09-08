@@ -5,6 +5,8 @@
 <a  href="https://user-images.githubusercontent.com/49812701/188447832-6a78cffa-636c-4e4f-8512-6b787c0ad8dd.png" ><img  width="265" height="265" alt="Taskbar Countdown by GAK" title="Taskbar Countdown" src="https://user-images.githubusercontent.com/49812701/188447832-6a78cffa-636c-4e4f-8512-6b787c0ad8dd.png"></a>
 </p>
  
+ ![GitHub all releases](https://img.shields.io/github/downloads/Arvinth-Krishna/taskbar-countdown/total?style=for-the-badge)
+ 
  <div align="center">
 <a href="https://www.youtube.com/playlist?list=PLwfmXAeVRyvkiFj_kyodNsd2uUa-0yrAG"><img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/HbqW0zCIZYg?style=social"></a> <a href="https://discord.gg/SMJ44xQz7p"><img alt="Discord" src="https://img.shields.io/discord/866341547042013244?color=%235465DE&label=Discord&logo=discord&logoColor=white"></a> <a href="https://www.buymeacoffee.com/ArvinthKrishna"><img alt="BuyMeACoffee" src="https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&label"></a>
 </div>
